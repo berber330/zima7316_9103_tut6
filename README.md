@@ -1,8 +1,5 @@
 # zima7316_9103_tut6
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+[Link Text](https://www.google.com)
+
+![An image of a cat](http://placekitten.com/200/300)
