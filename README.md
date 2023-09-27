@@ -1,3 +1,8 @@
 # zima7316_9103_tut6
 
-This is a repo that I will use to learn github.
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
