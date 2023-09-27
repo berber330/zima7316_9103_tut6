@@ -2,4 +2,16 @@
 
 [Link Text](https://www.google.com)
 
-![An image of a cat](http://placekitten.com/200/300)
+> See what happen.
+
+`
+inline code
+`
+
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
+
+> This is a blockquote.
